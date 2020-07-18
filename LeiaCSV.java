@@ -12,7 +12,7 @@ public class LeiaCSV {
     
     public ArrayList<Pessoa> run() {
         
-        String arquivoCSV = "C:\\Users\\guikh\\OneDrive\\Documents\\OD_2017.csv";
+        String arquivoCSV = "OD_2017.csv";
         BufferedReader br = null;
         String linha = "";
         String csvDivisor = ",";
